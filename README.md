@@ -10,7 +10,7 @@
   
 :books: Continuously developing my knowledge in Machine Learning and Large Language Models (LLMs), including Neural Computing and Agentic AI
 
-:heavy_check_mark: Attended multiple Data Bites talks across various industries to understand the currenet market needs and get well prepare for my career after graduation 
+:heavy_check_mark: Attended multiple Data Bites talks across various industries to understand the currenet market needs and get well prepared for my career after graduation 
 
 ⚡ Fun fact: I aspire to become a data analyst and combine insights from both academic learning and real-world industry experience
 
