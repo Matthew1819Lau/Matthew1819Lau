@@ -1,7 +1,20 @@
-## Hello there :milky_way:
+## Hello there :milky_way:, I'm Matthew Lau 😄
+
+- Currently studying MSc Data Science at City St George’s University of London
+- Specialise in Business and Data analysis domain
+- Did busincess consulting project, digital marketing project and data science projects while studying at Univeristy
+- Experienced in Python, Excel, and data visualisation tools.
+- Continuous Developing and improving machine learning, neural computing and agentic AI knowledge and skill for getting well prepare in the future career pathway.
+- Attended several data bites talk to understand more about the current markt and know more about the needs of different domain across industries.
+- ⚡ Fun fact:Aiming to be a data analyst in future for contribution my skill and knowledge from the dedication from my lecturer and my self-learning time. 
+
+
 
 <!--
 **Matthew1819Lau/Matthew1819Lau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am studying MSc Data Science at City St George’s University of London
+
+
 
 Here are some ideas to get you started:
 
