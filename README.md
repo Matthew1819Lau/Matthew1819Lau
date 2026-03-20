@@ -1,47 +1,48 @@
 ## Hello there :milky_way:, I'm Matthew Lau 😄
 
-- Currently studying MSc Data Science at City St George’s University of London
-- Specialise in Business and Data analysis domain
-- Did busincess consulting project, digital marketing project and data science projects while studying at Univeristy
-- Experienced in Python, Excel, and data visualisation tools.
-- Continuous Developing and improving machine learning, neural computing and agentic AI knowledge and skill for getting well prepare in the future career pathway.
-- Attended several data bites talk to understand more about the current markt and know more about the needs of different domain across industries.
-- ⚡ Fun fact:Aiming to be a data analyst in future for contribution my skill and knowledge from the dedication from my lecturer and my self-learning time. 
+:man_student: Currently studying an MSc Data Science at City St George’s University of London
+  
+:office: Specialising in Business and Data analysis 
 
+:computer: Experienced in Python, Excel, and Data visualisation tools.
+  
+:octocat: Completed several projects in data science, digial marketing and business conluting during my studies
+  
+:books: Continuously developing my knowledge in Machine Learning and Large Language Models (LLMs), including Neural Computing and Agentic AI
 
+:heavy_check_mark: Attended multiple Data Bites talks across various industries to understand the currenet market needs and get well prepare for my career after graduation 
 
-<!--
-**Matthew1819Lau/Matthew1819Lau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-I am studying MSc Data Science at City St George’s University of London
+⚡ Fun fact: I aspire to become a data analyst and combine insights from both academic learning and real-world industry experience
 
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# :desktop_computer: Tech Languages and Libraries:
+# :desktop_computer: Skills & Tools:
+### 🛠️ Tools 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch Geometric](https://img.shields.io/badge/PyTorch%20Geometric-%233C2179.svg?style=for-the-badge&logo=pyg&logoColor=white)
+### 📈 Data Analysis
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white) 
+### 📊 Data Visualisation
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-9cf?style=for-the-badge) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch Geometric](https://img.shields.io/badge/PyTorch%20Geometric-%233C2179.svg?style=for-the-badge&logo=pyg&logoColor=white)
+### 🧠 Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### :file_cabinet: Database Query 
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2334A853?style=for-the-badge&logo=googlesheets&logoColor=white)  ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+## :high_brightness: Projects
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### :heavy_plus_sign: Data Science Projects
+- :link: **[Project Name 1]** – Short description (e.g., predictive model, insights, tools used)
+- :link: **[Project Name 2]** – Short description  
 
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2334A853?style=for-the-badge&logo=googlesheets&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+### :heavy_plus_sign: Business & Marketing Projects
+- :link: **[Project Name 3]** – Example: campaign analysis, customer segmentation
 
-![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-
-
+## :pencil: Currently Learning
+:file_folder: Agentic AI, Big Data, Neural computing, Machine Learning models and Evaluation, Knowlegde Graphs and Ontology
 
 # 🌱  GitHub Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matthew1819Lau&show_icons=true&theme=tokyonight)](https://github.com/Matthew1819Lau/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matthew1819Lau&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)](https://github.com/Matthew1819Lau/github-readme-stats)  
+
+ 
+
+
