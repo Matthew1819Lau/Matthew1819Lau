@@ -6,7 +6,7 @@
 
 :computer: Experienced in Python, Excel, and Data visualisation tools.
   
-:octocat: Completed several projects in data science, digial marketing and business conluting during my studies
+:octocat: Completed several projects in data science, digial marketing and business consluting during my studies
   
 :books: Continuously developing my knowledge in Machine Learning and Large Language Models (LLMs), including Neural Computing and Agentic AI
 
