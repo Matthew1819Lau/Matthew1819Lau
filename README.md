@@ -35,7 +35,7 @@
 - :link: **[Project Name 2]** – Short description  
 
 ### :heavy_plus_sign: Business & Marketing Projects
-- :link: **[Project Name 3]** – Example: campaign analysis, customer segmentation
+- :link: **[Google-Step-Up-Challenge](https://github.com/Matthew1819Lau/Google-Step-Up-Challenge)** – Campaign analysis, Customer segmentation and Budget allocation
 
 ## :pencil: Currently Learning
 :file_folder: Agentic AI, Big Data, Neural Computing, Machine Learning Models, Knowlegde Graphs and Ontology
