@@ -31,14 +31,14 @@
 ## :high_brightness: Projects
 
 ### :heavy_plus_sign: Data Science Projects
-- :link: **[Project Name 1]** – Short description (e.g., predictive model, insights, tools used)
+- :link: **[Project Name 1]** – Short description (e.g., predictive model, insights, tools used) :white_check_mark:
 - :link: **[Project Name 2]** – Short description  
 
 ### :heavy_plus_sign: Business & Marketing Projects
 - :link: **[Project Name 3]** – Example: campaign analysis, customer segmentation
 
 ## :pencil: Currently Learning
-:file_folder: Agentic AI, Big Data, Neural computing, Machine Learning models and Evaluation, Knowlegde Graphs and Ontology
+:file_folder: Agentic AI, Big Data, Neural Computing, Machine Learning Models, Knowlegde Graphs and Ontology
 
 # 🌱  GitHub Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matthew1819Lau&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)](https://github.com/Matthew1819Lau/github-readme-stats)  
