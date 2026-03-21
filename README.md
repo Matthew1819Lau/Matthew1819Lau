@@ -31,7 +31,7 @@
 ## :high_brightness: Projects
 
 ### :heavy_plus_sign: Data Science Projects
-- :link: **[Project Name 1]** – Short description (e.g., predictive model, insights, tools used) :white_check_mark:
+- :link: **[Project Name 1]** – Short description (e.g., predictive model, insights, tools used)
 - :link: **[Project Name 2]** – Short description  
 
 ### :heavy_plus_sign: Business & Marketing Projects
