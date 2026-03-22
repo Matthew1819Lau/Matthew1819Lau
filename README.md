@@ -30,12 +30,14 @@
 
 ## :high_brightness: Projects
 
-### :heavy_plus_sign: Data Science Projects
-- :link: **[Project Name 1]** – Short description (e.g., predictive model, insights, tools used)
-- :link: **[Project Name 2]** – Short description  
+### :heavy_plus_sign: Data Science Project
+- :link: **[Crime-Data-Analysis-Transportation](https://github.com/Matthew1819Lau/Crime-Data-Analysis-Transportation)** – Crime analysis, Data Preprocessing, Exploratory data analysis (EDA), Data visualisation, Clustering and Python 
 
-### :heavy_plus_sign: Business & Marketing Projects
+### :heavy_plus_sign: Business & Marketing Project
 - :link: **[Google-Step-Up-Challenge](https://github.com/Matthew1819Lau/Google-Step-Up-Challenge)** – Campaign analysis, Customer segmentation and Budget allocation
+  
+### :heavy_plus_sign: Machine Learning Project
+- :link: **[Project Name 1]** –  (e.g., predictive model, insights, tools used)
 
 ## :pencil: Currently Learning
 :file_folder: Agentic AI, Big Data, Neural Computing, Machine Learning Models, Knowlegde Graphs and Ontology
