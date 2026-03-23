@@ -37,7 +37,7 @@
 - :link: **[Google-Step-Up-Challenge](https://github.com/Matthew1819Lau/Google-Step-Up-Challenge)** – Campaign analysis, Customer segmentation and Budget allocation
   
 ### :heavy_plus_sign: Machine Learning Project
-- :link: **[Project Name 1]** –  (e.g., predictive model, insights, tools used)
+- :link: **[Project Name 1](https://github.com/Matthew1819Lau/Machine-Learning-Model-Comparison/tree/main)** – Predictive model, Logistic Regression, Naive Bayes and MATLAB
 
 ## :pencil: Currently Learning
 :file_folder: Agentic AI, Big Data, Neural Computing, Machine Learning Models, Knowlegde Graphs and Ontology
